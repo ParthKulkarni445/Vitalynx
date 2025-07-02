@@ -1,4 +1,4 @@
-# Electronic Health Records (EHR) using Blockchain
+# Vitalynx : Electronic Health Records (EHR) using Blockchain
 
 This project is a basic implementation of a blockchain-based Electronic Health Record (EHR) system, developed to illustrate how blockchain technology can be applied to securely manage patient records. The system provides an interactive menu with options to:
 
