@@ -6,7 +6,7 @@ This project is a basic implementation of a blockchain-based Electronic Health R
 - Add medical records
 - View existing records
 - View existing blocks
-- Testing Blockchain Immutability
+- Testing Blockchain Immutability 
 
 ## Key Features
 
